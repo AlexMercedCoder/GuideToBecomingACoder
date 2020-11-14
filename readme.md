@@ -65,8 +65,137 @@ Exaustive List here: https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginn
 
 ## Git
 
+Git is software for tracking versions of files. This will be the primary way you'll track the progress of your code and submit it for evaluation. Just to make one thing very clear right way...
+
+Git - software that tracks versions of different projects on your computer in local repositories.
+
+Github.com and git.generalassemb.ly(Git Enterprise) - These sites host repositories remotely, so you can push the code from your local git repository to a remote repository for backup, sharing, deploying and more.
+
+Watch the following videos to learn more about SSH Keys, Git, and Github
+
+[![SSH Keys](http://img.youtube.com/vi/6u84sACs0v0/0.jpg)](http://www.youtube.com/watch?v=6u84sACs0v0 "SSH Keys")
+
+[![Git and Github](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "Git and Github")
+
+**Git Terminal Commands Reference**
+
+<details>
+<summary>
+Reveal
+</summary>
+<p>
+
+More commands here: https://dzone.com/articles/top-20-git-commands-with-examples
+
+```git init``` create a git repository in the current folder (never make a git repository inside another repository)
+
+```git add -A``` add all files to staging
+
+```git commit -m "message here"``` commit all files in staging
+
+```git remote add remoteName remoteUrl``` add a remote to push code too (Github or Git Enterprise), you can add as many remotes as you want
+
+```git push remoteName branchName``` push to code to the specified remote to the specified branch typically git push origin master
+
+```git remote rm remoteName``` remove a remote
+
+```git log``` see a log of commits
+
+```git remote -v``` see list of remotes
+
+```git checkout -b newBranchName``` create a new branch
+
+```git checkout exisitingBranchName``` switch a different branch
+
+```git merge branchName``` merge branch into your current branch
+
+```git pull remoteName branchName``` pull code from remote repo
+
+</p>
+</details>
+
+---
+
 ## Github and Git Enterprise
+
+Github.com should be where you store your unit projects and anything you plan on deploying (making live online).
+
+git.generalassemb.ly (Git Enterprise) should be where your class repo is located and you turn in your homework.
+
+Documentation will often be written in MarkDown a special basic language for writing a basic documents, watch the videos below to learn about remote repositories and using Markdown Files.
+
+[![Git Remotes](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "Git Remotes")
+
+[![Writing Markdown Files](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "Writing Markdown Files")
+
+
+Learn more about using Remote Repositories with the following lessons from Git Labs, highly recommend working through these brief quick lessons.
+
+1. First Day on Github: https://lab.github.com/githubtraining/first-day-on-github
+
+2. First Week on Github: https://lab.github.com/githubtraining/first-week-on-github
+
+3. Managing Merge Conflicts: https://lab.github.com/githubtraining/managing-merge-conflicts
+
 
 ## VSCode
 
+VSCode will likely be the main text editor you'll be using to edit your code throughout the cohort. Please watch the two videos below to become more familiar with VSCode and helpful extensions.
+
+[![VSCode Basics](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "VSCode Basics")
+
+[![VSCode Extensions](http://img.youtube.com/vi/eftHJZwHYTQ/0.jpg)](http://www.youtube.com/watch?v=eftHJZwHYTQ "VSCodeExtension")
+
+**VSCode Shortcuts Reference**
+
+<details>
+<summary>
+Reveal
+</summary>
+<p>
+
+1. Shortcuts for Mac: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+2. Shortcuts for Linux: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
+3. Shortcuts for Windows: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+</p>
+</details>
+
+---
+
 ## Node
+
+Node is a runtime, it allows us to run javascript out of the browser which gives javascript a whole new life as a language for backend servers, scripting and more. Node will be used heavily through the cohort so watch the video below to learn how to use it.
+
+[![NodeJS](http://img.youtube.com/vi/MifUZuRKrqg/0.jpg)](http://www.youtube.com/watch?v=MifUZuRKrqg "NodeJS")
+
+**Node Terminal Command Shortcuts**
+
+<details>
+<summary>
+Reveal
+</summary>
+<p>
+
+```node filename.js``` run the specified javascript file in the current folder
+
+```npm init -y``` create a new package.json file in the current folder
+
+```npm install PackageName``` install the specified package, add it to package.json file
+
+```npm install``` install all dependencies listed in the package.json file
+
+```npm uninstall PackageName``` uninstall the specified package
+
+</p>
+</details>
+
+---
+
+## Chrome
+
+You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development and will be the primary browser we'll use through out the course. Learning the dev tools will help debugging and overcoming roadblocks in your code much easier.
+
+[![Chrome dev Tools](http://img.youtube.com/vi/Bx9bhPOxNZk/0.jpg)](http://www.youtube.com/watch?v=Bx9bhPOxNZk "Chrome dev tools")
