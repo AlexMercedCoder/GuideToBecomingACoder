@@ -16,10 +16,18 @@ Ruby is a really popular and developer friendly programming languages. Most famo
 ## Other Important Libraries To Learn About
 
 - [Top Ruby Libraries](https://rubygarage.org/blog/best-ruby-gems-we-use)
+- [Ruby vs Javascript](https://tuts.alexmercedcoder.com/rubyvjs/)
 
 ### Backend Web Frameworks
 
 - [Top Ruby Web Frameworks](https://scoutapm.com/blog/a-tour-of-7-popular-ruby-frameworks-in-2020)
+
+### Rails Supplements
+
+- [Rails Deployment](https://tuts.alexmercedcoder.com/railsdeployment/)
+- [Rails Many to Many Relationships](https://scoutapm.com/blog/a-tour-of-7-popular-ruby-frameworks-in-2020)
+- [Rails Reference](https://tuts.alexmercedcoder.com/Ruby%20on%20Rails/)
+- [Rails Auth](https://tuts.alexmercedcoder.com/ruby-tut/)
 
 ### CMS Frameworks
 
@@ -27,6 +35,6 @@ Ruby is a really popular and developer friendly programming languages. Most famo
 
 ## Trouble Shooting Notes
 
-- Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.
+- The JetBrains IDE for Ruby is called RubyMine
 
-- If you like Ruby but need more speed try Crystal, a language with Ruby like syntax but is compiled and typed making for faster and more scalable applications.
+- Many operating systems come with Ruby installed since the OS may use it for some things, it will have security on it so you'll still need to install ruby but mindful to make sure your terminal path refers to your install to not blocked by security.

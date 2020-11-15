@@ -12,6 +12,14 @@ Javascript is the only language currently that can be run in the web browser in 
 
 [USE THIS JAVASCRIPT PLAYLIST TO SUPPLEMENT WHAT YOU LEARN IN CLASS](https://www.youtube.com/playlist?list=PLY6oTPmKnKbZDZ9cRrRby4Wnr4GIJj5O3)
 
+### Useful Tutorials
+
+- [Javascript Events](https://tuts.alexmercedcoder.com/jsevents/)
+- [Promises and HTTP Requests](https://tuts.alexmercedcoder.com/promises/)
+- [Using Promises](https://tuts.alexmercedcoder.com/writingpromises/)
+- [Array Callback Methods](https://tuts.alexmercedcoder.com/ArrayMethods/)
+- [Axios and Fetch](https://tuts.alexmercedcoder.com/axiosfetch/)
+
 ## Other Important Libraries To Learn About
 
 - axios: popular data fetching library
@@ -29,6 +37,21 @@ Javascript is the only language currently that can be run in the web browser in 
 5. [StencilJS](https://www.youtube.com/playlist?list=PLY6oTPmKnKbazpUTMcGmvMtgU5sr0Ip-V)
 6. [Web Components](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaNVkXHOHWxgdKEZLGKuFP9)
 
+#### Frontend Tutorials
+
+- [Hello World in Vue](https://tuts.alexmercedcoder.com/vue-tut/)
+- [React 101](https://tuts.alexmercedcoder.com/react-tut/)
+- [Angular Tutorial](https://tuts.alexmercedcoder.com/angulartut/)
+- [Web Components Basics](https://tuts.alexmercedcoder.com/webcomp1/)
+- [Web Component Styling](https://tuts.alexmercedcoder.com/webcomp2/)
+- [Web Component Lifecycle](https://tuts.alexmercedcoder.com/webcomp3/)
+- [Svelte Tutorial](https://tuts.alexmercedcoder.com/svelte/)
+- [JQuery vs Plain Vanilla DOM](https://tuts.alexmercedcoder.com/jQuery/)
+- [Passing Data in Vue](https://tuts.alexmercedcoder.com/vueprops/)
+- [React Cheat Sheet](https://tuts.alexmercedcoder.com/reactcheatsheet/)
+- [React Concepts](https://tuts.alexmercedcoder.com/reactconcepts/)
+- [React Pro-Tips](https://tuts.alexmercedcoder.com/reactconcepts/)
+
 ### Backend Frameworks in Javascript
 
 1. Express
@@ -40,6 +63,13 @@ Javascript is the only language currently that can be run in the web browser in 
 7. Fastify
 8. Loopback
 9. Socket.io
+
+#### Backend Tutorials
+
+- [Mongoose] (https://tuts.alexmercedcoder.com/Mongoose/)
+- [Express] (https://tuts.alexmercedcoder.com/IntroToExpress/)
+- [Express, Mongo and Mongoose Reference] (https://tuts.alexmercedcoder.com/ExpressMongo/)
+- [CORS] (https://tuts.alexmercedcoder.com/cors/)
 
 ### Headless CMS Frameworks
 

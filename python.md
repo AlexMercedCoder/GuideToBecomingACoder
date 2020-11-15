@@ -25,6 +25,10 @@ Python is one of the most popular languages around and is popular in data scienc
 
 - [Python CMS Frameworks](https://morioh.com/p/53082b6e0db3)
 
+### Django Reference
+
+- [Django Reference](https://tuts.alexmercedcoder.com/djangoreference/)
+
 ## Trouble Shooting Notes
 
 - Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.
