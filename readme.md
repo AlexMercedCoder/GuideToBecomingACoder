@@ -87,29 +87,29 @@ Reveal
 
 More commands here: https://dzone.com/articles/top-20-git-commands-with-examples
 
-```git init``` create a git repository in the current folder (never make a git repository inside another repository)
+`git init` create a git repository in the current folder (never make a git repository inside another repository)
 
-```git add -A``` add all files to staging
+`git add -A` add all files to staging
 
-```git commit -m "message here"``` commit all files in staging
+`git commit -m "message here"` commit all files in staging
 
-```git remote add remoteName remoteUrl``` add a remote to push code too (Github or Git Enterprise), you can add as many remotes as you want
+`git remote add remoteName remoteUrl` add a remote to push code too (Github or Git Enterprise), you can add as many remotes as you want
 
-```git push remoteName branchName``` push to code to the specified remote to the specified branch typically git push origin master
+`git push remoteName branchName` push to code to the specified remote to the specified branch typically git push origin master
 
-```git remote rm remoteName``` remove a remote
+`git remote rm remoteName` remove a remote
 
-```git log``` see a log of commits
+`git log` see a log of commits
 
-```git remote -v``` see list of remotes
+`git remote -v` see list of remotes
 
-```git checkout -b newBranchName``` create a new branch
+`git checkout -b newBranchName` create a new branch
 
-```git checkout exisitingBranchName``` switch a different branch
+`git checkout exisitingBranchName` switch a different branch
 
-```git merge branchName``` merge branch into your current branch
+`git merge branchName` merge branch into your current branch
 
-```git pull remoteName branchName``` pull code from remote repo
+`git pull remoteName branchName` pull code from remote repo
 
 </p>
 </details>
@@ -124,10 +124,9 @@ git.generalassemb.ly (Git Enterprise) should be where your class repo is located
 
 Documentation will often be written in MarkDown a special basic language for writing a basic documents, watch the videos below to learn about remote repositories and using Markdown Files.
 
-[![Git Remotes](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "Git Remotes")
+[![Git Remotes](http://img.youtube.com/vi/TOsVVxXdtu8/0.jpg)](http://www.youtube.com/watch?v=TOsVVxXdtu8 "Git Remotes")
 
-[![Writing Markdown Files](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "Writing Markdown Files")
-
+[![Writing Markdown Files](http://img.youtube.com/vi/lbpRomejEd0/0.jpg)](http://www.youtube.com/watch?v=lbpRomejEd0 "Writing Markdown Files")
 
 Learn more about using Remote Repositories with the following lessons from Git Labs, highly recommend working through these brief quick lessons.
 
@@ -137,14 +136,13 @@ Learn more about using Remote Repositories with the following lessons from Git L
 
 3. Managing Merge Conflicts: https://lab.github.com/githubtraining/managing-merge-conflicts
 
-
 ## VSCode
 
 VSCode will likely be the main text editor you'll be using to edit your code throughout the cohort. Please watch the two videos below to become more familiar with VSCode and helpful extensions.
 
-[![VSCode Basics](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "VSCode Basics")
+[![Visual Studio Code Basics](http://img.youtube.com/vi/Pf54xUgWzhc/0.jpg)](http://www.youtube.com/watch?v=Pf54xUgWzhc "Visual Studio Code Basics")
 
-[![VSCode Extensions](http://img.youtube.com/vi/eftHJZwHYTQ/0.jpg)](http://www.youtube.com/watch?v=eftHJZwHYTQ "VSCodeExtension")
+[![Visual Studio Code Extensions](http://img.youtube.com/vi/eftHJZwHYTQ/0.jpg)](http://www.youtube.com/watch?v=eftHJZwHYTQ "Visual Studio Code Extensions")
 
 **VSCode Shortcuts Reference**
 
@@ -179,15 +177,15 @@ Reveal
 </summary>
 <p>
 
-```node filename.js``` run the specified javascript file in the current folder
+`node filename.js` run the specified javascript file in the current folder
 
-```npm init -y``` create a new package.json file in the current folder
+`npm init -y` create a new package.json file in the current folder
 
-```npm install PackageName``` install the specified package, add it to package.json file
+`npm install PackageName` install the specified package, add it to package.json file
 
-```npm install``` install all dependencies listed in the package.json file
+`npm install` install all dependencies listed in the package.json file
 
-```npm uninstall PackageName``` uninstall the specified package
+`npm uninstall PackageName` uninstall the specified package
 
 </p>
 </details>
@@ -198,4 +196,23 @@ Reveal
 
 You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development and will be the primary browser we'll use through out the course. Learning the dev tools will help debugging and overcoming roadblocks in your code much easier.
 
-[![Chrome dev Tools](http://img.youtube.com/vi/Bx9bhPOxNZk/0.jpg)](http://www.youtube.com/watch?v=Bx9bhPOxNZk "Chrome dev tools")
+[![Chrome Dev Tools](http://img.youtube.com/vi/Bx9bhPOxNZk/0.jpg)](http://www.youtube.com/watch?v=Bx9bhPOxNZk "Chrome Dev Tools")
+
+
+## More Topics
+
+Here you'll find other resources for other topics you may come across during the cohort. These are can be examined at whatever time you feel appropriate to do so just make sure you explore the above videos about the tooling you'll be using during the cohort to give you the best foot forward.
+
+ - [HTML/CSS](/htmlcss.md)
+ - [Javascript](/js.md)
+ - [Python](/htmlcss.md)
+ - [Ruby](/htmlcss.md)
+ - [Go](/htmlcss.md)
+ - [PHP](/htmlcss.md)
+ - [Rust](/htmlcss.md)
+ - [Swift](/htmlcss.md)
+ - [Kotlin](/htmlcss.md)
+
+## Contribute
+
+If you have a resource or advice you'd like to contribute, submit it via a issue on this repository.
