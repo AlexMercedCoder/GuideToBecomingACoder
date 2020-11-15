@@ -198,20 +198,19 @@ You may be fond of other browsers but Chrome by far has the most robust tools to
 
 [![Chrome Dev Tools](http://img.youtube.com/vi/Bx9bhPOxNZk/0.jpg)](http://www.youtube.com/watch?v=Bx9bhPOxNZk "Chrome Dev Tools")
 
-
 ## More Topics
 
 Here you'll find other resources for other topics you may come across during the cohort. These are can be examined at whatever time you feel appropriate to do so just make sure you explore the above videos about the tooling you'll be using during the cohort to give you the best foot forward.
 
- - [HTML/CSS](/htmlcss.md)
- - [Javascript](/js.md)
- - [Python](/htmlcss.md)
- - [Ruby](/htmlcss.md)
- - [Go](/htmlcss.md)
- - [PHP](/htmlcss.md)
- - [Rust](/htmlcss.md)
- - [Swift](/htmlcss.md)
- - [Kotlin](/htmlcss.md)
+- [HTML/CSS](/htmlcss.md)
+- [Javascript](/js.md)
+- [Python](/python.md)
+- [Ruby](/ruby.md)
+- [Go](/go.md)
+- [PHP](/php.md)
+- [Rust](/rust.md)
+- [Swift](/swift.md)
+- [Kotlin](/kotlin.md)
 
 ## Contribute
 
