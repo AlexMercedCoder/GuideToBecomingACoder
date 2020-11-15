@@ -12,6 +12,8 @@ Python is one of the most popular languages around and is popular in data scienc
 
 [PYTHON PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaTvgXqNCRXcKnqbO5j2oQn)
 
+[Language Cheatsheet](https://www.scribd.com/document/483038702/DevNursery-Cheatsheet-Python)
+
 ## Other Important Libraries To Learn About
 
 - [Top Python Libraries](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)

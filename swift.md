@@ -12,6 +12,8 @@ Swift is a popular scripting language that has become the successor to Objective
 
 [SWIFT PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYn60pD3UYfYw7BzxGY2Do0)
 
+[Language Cheatsheet](https://www.scribd.com/document/483300169/DevNursery-Cheatsheet-Swift)
+
 ## Other Important Libraries To Learn About
 
 - [Top Swift Libraries](https://www.codementor.io/@kuprenkoauthor/top-10-swift-libraries-from-github-that-are-worth-using-k8g8gifph)

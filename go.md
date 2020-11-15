@@ -12,6 +12,8 @@ Go is popular language created by google to offer a more developer friendly low-
 
 [GO PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbZbFOW6r6YulR1_9SCrdyOZ)
 
+[Language Cheatsheet](https://www.scribd.com/document/483104737/DevNursery-Cheatsheet-GO)
+
 ## Other Important Libraries To Learn About
 
 - [Top GO Libraries](https://www.agiratech.com/blog/go-libraries-packages)

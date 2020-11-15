@@ -12,6 +12,8 @@ PHP is one of the older and most popular programming languages for web applicati
 
 [PHP PLAYLIST](https://www.youtube.com/watch?v=scsmssXd47U&list=PLY6oTPmKnKbbLnwRkrCDhOl94iaibHwBJ)
 
+[Language Cheatsheet](https://www.scribd.com/document/483063595/DevNursery-Cheatsheet-PHP)
+
 ## Other Important Libraries To Learn About
 
 - [Top PHP Libraries](https://www.cloudways.com/blog/php-libraries/)

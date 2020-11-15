@@ -12,6 +12,8 @@ Rust is a popular language created by Mozilla to create a fast alternative to C+
 
 [RUST PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYPkf2AhsPbq_YGh3q7p4Aj)
 
+[Language Cheatsheet](https://www.scribd.com/document/483216933/DevNursery-Cheatsheet-Rust)
+
 ## Other Important Libraries To Learn About
 
 - [Top Rust Libraries](https://medium.com/@jondot/12-killer-rust-libraries-you-should-know-c60bab07624f)

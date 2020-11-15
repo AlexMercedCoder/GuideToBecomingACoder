@@ -11,7 +11,10 @@ Ruby is a really popular and developer friendly programming languages. Most famo
 ## First Steps
 
 [RUBY PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbZp8Kh6jS5A6j-6H2kGY12e)
+
 [RUBY ON RAILS PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYlAqVHgzZl5lou54bizdbV)
+
+[Language Cheatsheet](https://www.scribd.com/document/483030439/DevNursery-Cheatsheet-Ruby)
 
 ## Other Important Libraries To Learn About
 

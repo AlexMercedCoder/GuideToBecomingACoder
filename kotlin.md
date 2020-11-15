@@ -12,6 +12,8 @@ Kotlin is a Java Virtual Machine language that has grown in popularity and has b
 
 [KOTLIN PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKba9Xg06DR67IxdppdKsQZ_s)
 
+[Language Cheatsheet](https://www.scribd.com/document/483305342/devNursery-Cheatsheet-Kotlin)
+
 ## Other Important Libraries To Learn About
 
 - [Top Kotlin Libraries](https://topdigital.agency/top-7-kotlin-libraries/)
