@@ -211,6 +211,7 @@ Here you'll find other resources for other topics you may come across during the
 - [Rust](/rust.md)
 - [Swift](/swift.md)
 - [Kotlin](/kotlin.md)
+- [Perl 5 & Raku](/rakuperl.md)
 
 ## Contribute
 

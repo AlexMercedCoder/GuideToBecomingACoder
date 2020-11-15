@@ -1,30 +1,25 @@
-# Python
+# Kotlin
 
-Python is one of the most popular languages around and is popular in data science, automation, machine learning, web development and more.
+Kotlin is a Java Virtual Machine language that has grown in popularity and has become the successor to Java for creating Android mobile applications.
 
 ## Installation
 
-- [INSTALL ON MAC](https://programwithus.com/learn/python/install-python3-mac)
-- [INSTALL ON LINUX](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server)
-- [INSTALL ON WINDOWS](https://phoenixnap.com/kb/how-to-install-python-3-windows)
+- [INSTALL ON MAC](https://vlemon.com/tutorial/kotlin-tutorial-beginner-guide/install-kotlin-and-developer-tools-in-mac)
+- [INSTALL ON LINUX](https://linuxconfig.org/how-to-install-kotlin-on-ubuntu-20-04-focal-fossa-linux)
+- [INSTALL ON WINDOWS](https://downlinko.com/download-install-kotlin-windows.html)
 
 ## First Steps
 
-[PYTHON PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaTvgXqNCRXcKnqbO5j2oQn)
+[KOTLIN PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKba9Xg06DR67IxdppdKsQZ_s)
 
 ## Other Important Libraries To Learn About
 
-- [Top Python Libraries](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)
+- [Top Kotlin Libraries](https://topdigital.agency/top-7-kotlin-libraries/)
 
 
-### Backend Frameworks in Javascript
+### Backend Web Frameworks
 
-- [Top Python Web Frameworks](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
+- [Top Kotlin Web Frameworks](https://kotlinlang.org/docs/reference/server-overview.html)
 
-### CMS Frameworks
-
-- [Python CMS Frameworks](https://morioh.com/p/53082b6e0db3)
 
 ## Trouble Shooting Notes
-
-- Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.

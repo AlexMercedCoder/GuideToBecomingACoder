@@ -17,7 +17,7 @@ Python is one of the most popular languages around and is popular in data scienc
 - [Top Python Libraries](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)
 
 
-### Backend Frameworks in Javascript
+### Backend Web Frameworks
 
 - [Top Python Web Frameworks](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
 
@@ -28,3 +28,5 @@ Python is one of the most popular languages around and is popular in data scienc
 ## Trouble Shooting Notes
 
 - Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.
+
+- If you like python but need speed, Nim is a python like language that is types and compiled allowing you to write blazing fast applications using python like syntax

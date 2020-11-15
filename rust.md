@@ -1,30 +1,23 @@
-# Python
+# Rust
 
-Python is one of the most popular languages around and is popular in data science, automation, machine learning, web development and more.
+Rust is a popular language created by Mozilla to create a fast alternative to C++ that is more developer friendly. Rust, Like Go are the go to languages when you want to build fast applications or systems without having to use C++.
 
 ## Installation
 
-- [INSTALL ON MAC](https://programwithus.com/learn/python/install-python3-mac)
-- [INSTALL ON LINUX](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server)
-- [INSTALL ON WINDOWS](https://phoenixnap.com/kb/how-to-install-python-3-windows)
+- [INSTALL ON MAC](https://sourabhbajaj.com/mac-setup/Rust/)
+- [INSTALL ON LINUX](cloudbooklet.com/how-to-install-rust-on-ubuntu-20-04-lts/)
+- [INSTALL ON WINDOWS](https://www.shadercat.com/setting-up-a-rust-development-environment-on-windows-10/)
 
 ## First Steps
 
-[PYTHON PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaTvgXqNCRXcKnqbO5j2oQn)
+[RUST PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYPkf2AhsPbq_YGh3q7p4Aj)
 
 ## Other Important Libraries To Learn About
 
-- [Top Python Libraries](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)
+- [Top Rust Libraries](https://medium.com/@jondot/12-killer-rust-libraries-you-should-know-c60bab07624f)
 
+### Backend Web Frameworks
 
-### Backend Frameworks in Javascript
-
-- [Top Python Web Frameworks](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
-
-### CMS Frameworks
-
-- [Python CMS Frameworks](https://morioh.com/p/53082b6e0db3)
+- [Top Rust Web Frameworks](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
 
 ## Trouble Shooting Notes
-
-- Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.

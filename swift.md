@@ -1,30 +1,23 @@
-# Python
+# Swift
 
-Python is one of the most popular languages around and is popular in data science, automation, machine learning, web development and more.
+Swift is a popular scripting language that has become the successor to Objective-C for the purpose of making iOS applications.
 
 ## Installation
 
-- [INSTALL ON MAC](https://programwithus.com/learn/python/install-python3-mac)
-- [INSTALL ON LINUX](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server)
-- [INSTALL ON WINDOWS](https://phoenixnap.com/kb/how-to-install-python-3-windows)
+- [INSTALL ON MAC](https://www.javatpoint.com/how-to-install-swift-on-mac)
+- [INSTALL ON LINUX](https://tutorialforlinux.com/2020/06/07/swift-programming-ubuntu-20-04-getting-started-guide/)
+- [INSTALL ON WINDOWS](https://www.makeuseof.com/tag/program-swift-in-windows/)
 
 ## First Steps
 
-[PYTHON PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaTvgXqNCRXcKnqbO5j2oQn)
+[SWIFT PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYn60pD3UYfYw7BzxGY2Do0)
 
 ## Other Important Libraries To Learn About
 
-- [Top Python Libraries](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)
+- [Top Swift Libraries](https://www.codementor.io/@kuprenkoauthor/top-10-swift-libraries-from-github-that-are-worth-using-k8g8gifph)
 
+### Backend Web Frameworks
 
-### Backend Frameworks in Javascript
-
-- [Top Python Web Frameworks](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
-
-### CMS Frameworks
-
-- [Python CMS Frameworks](https://morioh.com/p/53082b6e0db3)
+- [Top Swift Web Frameworks](https://www.netguru.com/codestories/server-side-swift-frameworks-comparison)
 
 ## Trouble Shooting Notes
-
-- Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.

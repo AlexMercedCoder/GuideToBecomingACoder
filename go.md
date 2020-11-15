@@ -16,13 +16,8 @@ Go is popular language created by google to offer a more developer friendly low-
 
 - [Top GO Libraries](https://www.agiratech.com/blog/go-libraries-packages)
 
-
-### Backend Frameworks in Javascript
+### Backend Web Frameworks
 
 - [Top GO Web Frameworks](https://medium.com/quick-code/top-10-best-frameworks-for-golang-development-in-2020-e9df3313b6e9)
-
-### CMS Frameworks
-
-- [Python CMS Frameworks](https://morioh.com/p/53082b6e0db3)
 
 ## Trouble Shooting Notes

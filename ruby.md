@@ -17,7 +17,7 @@ Ruby is a really popular and developer friendly programming languages. Most famo
 
 - [Top Ruby Libraries](https://rubygarage.org/blog/best-ruby-gems-we-use)
 
-### Backend Frameworks in Javascript
+### Backend Web Frameworks
 
 - [Top Ruby Web Frameworks](https://scoutapm.com/blog/a-tour-of-7-popular-ruby-frameworks-in-2020)
 
@@ -28,3 +28,5 @@ Ruby is a really popular and developer friendly programming languages. Most famo
 ## Trouble Shooting Notes
 
 - Make sure to install some system to manage virtual environments, the Pycharm IDE can handle this for you making managing python projects much easier.
+
+- If you like Ruby but need more speed try Crystal, a language with Ruby like syntax but is compiled and typed making for faster and more scalable applications.
