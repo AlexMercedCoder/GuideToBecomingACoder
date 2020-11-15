@@ -27,6 +27,7 @@ Bash is the default shell environment in unix based systems (Mac and Linux). Win
 You will be spending a lot of time in the course in the bash shell so getting familiar with how it works will make life much easier. So please watch the video below.
 
 **VIDEO: INTRO TO BASH**
+
 [![Bash Video](http://img.youtube.com/vi/snOP94q34V4/0.jpg)](http://www.youtube.com/watch?v=snOP94q34V4 "Bash Terminal")
 
 **Bash Commands Reference**
@@ -75,9 +76,11 @@ Github.com and git.generalassemb.ly(Git Enterprise) - These sites host repositor
 Watch the following videos to learn more about SSH Keys, Git, and Github
 
 **VIDEO: SSH KEYS**
+
 [![SSH Keys](http://img.youtube.com/vi/6u84sACs0v0/0.jpg)](http://www.youtube.com/watch?v=6u84sACs0v0 "SSH Keys")
 
 **VIDEO: GIT AND GITHUB**
+
 [![Git and Github](http://img.youtube.com/vi/L4zbgo7KFoA/0.jpg)](http://www.youtube.com/watch?v=L4zbgo7KFoA "Git and Github")
 
 **Git Terminal Commands Reference**
@@ -128,9 +131,11 @@ git.generalassemb.ly (Git Enterprise) should be where your class repo is located
 Documentation will often be written in MarkDown a special basic language for writing a basic documents, watch the videos below to learn about remote repositories and using Markdown Files.
 
 **VIDEO: GIT REMOTES**
+
 [![Git Remotes](http://img.youtube.com/vi/TOsVVxXdtu8/0.jpg)](http://www.youtube.com/watch?v=TOsVVxXdtu8 "Git Remotes")
 
 **VIDEO: Writing Markdown Files**
+
 [![Writing Markdown Files](http://img.youtube.com/vi/lbpRomejEd0/0.jpg)](http://www.youtube.com/watch?v=lbpRomejEd0 "Writing Markdown Files")
 
 Learn more about using Remote Repositories with the following lessons from Git Labs, highly recommend working through these brief quick lessons.
@@ -146,9 +151,11 @@ Learn more about using Remote Repositories with the following lessons from Git L
 VSCode will likely be the main text editor you'll be using to edit your code throughout the cohort. Please watch the two videos below to become more familiar with VSCode and helpful extensions.
 
 **VIDEO: VSCode Basics**
+
 [![Visual Studio Code Basics](http://img.youtube.com/vi/Pf54xUgWzhc/0.jpg)](http://www.youtube.com/watch?v=Pf54xUgWzhc "Visual Studio Code Basics")
 
 **VIDEO: VSCode Extensions**
+
 [![Visual Studio Code Extensions](http://img.youtube.com/vi/eftHJZwHYTQ/0.jpg)](http://www.youtube.com/watch?v=eftHJZwHYTQ "Visual Studio Code Extensions")
 
 **VSCode Shortcuts Reference**
@@ -175,6 +182,7 @@ Reveal
 Node is a runtime, it allows us to run javascript out of the browser which gives javascript a whole new life as a language for backend servers, scripting and more. Node will be used heavily through the cohort so watch the video below to learn how to use it.
 
 **VIDEO: Intro to NodeJS**
+
 [![NodeJS](http://img.youtube.com/vi/MifUZuRKrqg/0.jpg)](http://www.youtube.com/watch?v=MifUZuRKrqg "NodeJS")
 
 **Node Terminal Command Shortcuts**
@@ -205,6 +213,7 @@ Reveal
 You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development and will be the primary browser we'll use through out the course. Learning the dev tools will help debugging and overcoming roadblocks in your code much easier.
 
 **VIDEO: INTRO TO Chrome Dev Tools**
+
 [![Chrome Dev Tools](http://img.youtube.com/vi/Bx9bhPOxNZk/0.jpg)](http://www.youtube.com/watch?v=Bx9bhPOxNZk "Chrome Dev Tools")
 
 ## More Topics
