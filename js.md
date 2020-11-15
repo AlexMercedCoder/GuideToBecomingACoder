@@ -29,6 +29,23 @@ Javascript is the only language currently that can be run in the web browser in 
 5. [StencilJS](https://www.youtube.com/playlist?list=PLY6oTPmKnKbazpUTMcGmvMtgU5sr0Ip-V)
 6. [Web Components](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaNVkXHOHWxgdKEZLGKuFP9)
 
+### Backend Frameworks in Javascript
+
+1. Express
+2. Koa
+3. Sails
+4. NextJS
+5. FoalTS
+6. Merver
+7. Fastify
+8. Loopback
+9. Socket.io
+
+### Headless CMS Frameworks
+
+1. Strapi
+2. Keystone
+
 ## Trouble Shooting Notes
 
 - Environmental variables work differently on windows so scripts with env variables for example `PORT=3000 node server.js` will error on windows. To fix this install the cross-env library and pre-fix your script like this to work on all operating systems `cross-env PORT=3000 node server.js`
