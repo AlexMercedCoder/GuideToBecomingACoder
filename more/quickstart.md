@@ -52,16 +52,16 @@ Using the above link you want to configure your identity on your local git insta
 
 Follow the directions above for your operating system to add an SSH key to your github.com account, also add the same SSH key to you git.generalassemb.ly account. This is not required but the benefit is you won't have to type your credentials to login all the time cause the SSH key acts as a fingerprint for your computer.
 
-*You Can Also Watch the Video I posted in the main [readme.md](./readme.me) in this repo on SSH keys for a visual guide on how to do this*
+*You Can Also Watch the Video I posted in the main [readme.md](/readme.me) in this repo on SSH keys for a visual guide on how to do this*
 
 ## Step 3 - Downloading VSCode
 
-- Go to https://code.visualstudio.com/ and download and install the visual studio code software, watch the videos on the main [readme.md](./readme.me) to learn the basics on how to use it and useful extensions that will help make your life easier.
+- Go to https://code.visualstudio.com/ and download and install the visual studio code software, watch the videos on the main [readme.md](/readme.me) to learn the basics on how to use it and useful extensions that will help make your life easier.
 
 ## Step 4 - Downloading NodeJS
 
-- Headover to NodeJS.org and download and install it. Learn about what is NodeJS and how to use it with the video in the main [readme.md](./readme.me).
+- Headover to NodeJS.org and download and install it. Learn about what is NodeJS and how to use it with the video in the main [readme.md](/readme.me).
 
 ## Step 5 - Learn the tools
 
-Head back to the main [readme.md](./readme.me) and read the basics on each tool so you have a starting idea on what the role of each tool is. We'll be explaining them during class but having a primer will help you get comfortable with them quicker.
+Head back to the main [readme.md](/readme.me) and read the basics on each tool so you have a starting idea on what the role of each tool is. We'll be explaining them during class but having a primer will help you get comfortable with them quicker.
