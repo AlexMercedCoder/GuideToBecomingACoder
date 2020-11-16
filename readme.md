@@ -10,7 +10,7 @@ Welcome!!! If you are reading this you are about to embark on a Software Enginee
 
 This guide below will tell you what you need to setup before the first day of class.
 
-- [QuickStart Setup Guide](/quickstart.md)
+- [QuickStart Setup Guide](/more/quickstart.md)
 
 Below you'll find videos and reference materials on all the main tools you'll be using throughout the course.
 
@@ -243,18 +243,18 @@ You may be fond of other browsers but Chrome by far has the most robust tools to
 
 Here you'll find other resources for other topics you may come across during the cohort. These can be examined at whatever time you feel appropriate to do so just make sure you explore the above videos about the tooling you'll be using during the cohort to give yourself the best foot forward.
 
-- [HTML/CSS](/htmlcss.md)
-- [Javascript](/js.md)
-- [Python](/python.md)
-- [Ruby](/ruby.md)
-- [Go](/go.md)
-- [PHP](/php.md)
-- [Rust](/rust.md)
-- [Swift](/swift.md)
-- [Kotlin](/kotlin.md)
-- [Perl 5 & Raku](/rakuperl.md)
-- [Databases](/db.md)
-- [Deployment](/deploy.md)
+- [HTML/CSS](/more/htmlcss.md)
+- [Javascript](/more/js.md)
+- [Python](/more/python.md)
+- [Ruby](/more/ruby.md)
+- [Go](/more/go.md)
+- [PHP](/more/php.md)
+- [Rust](/more/rust.md)
+- [Swift](/more/swift.md)
+- [Kotlin](/more/kotlin.md)
+- [Perl 5 & Raku](/more/rakuperl.md)
+- [Databases](/more/db.md)
+- [Deployment](/more/deploy.md)
 
 ## Contribute
 
