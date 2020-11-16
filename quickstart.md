@@ -38,6 +38,9 @@ You'll want free accounts to all the following services to use throughout the co
 - CodeSandbox.io
 - Heroku.com
 - MongoDB.com
+- Zoom (also make sure to have software installed)
+- Slack (Should have been invited to GA Students Workspace after Enrollment)
+
 
 ## 2 - Setting Up Git Locally
 
