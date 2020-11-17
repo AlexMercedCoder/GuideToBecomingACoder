@@ -22,7 +22,7 @@ Below you'll find videos and reference materials on all the main tools you'll be
 
 ## Bash (Terminal)
 
-Bash is the default shell environment in unix based systems (Mac and Linux). Windows is not unix based which is the primary reason we heavily discourage going through the course with a windows environment although there are several options on how to use your windows machine in the course.
+Bash is the default shell environment in unix based systems (Technically, Zsh is default on mac, but the commands are pretty much the same). Windows is not unix based which is the primary reason we heavily discourage going through the course with a windows environment although there are several options on how to use your windows machine in the course.
 
 **Solutions for Windows Users**
 
