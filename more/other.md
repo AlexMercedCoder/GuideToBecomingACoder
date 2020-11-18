@@ -8,6 +8,7 @@ Here is a bunch of other relevant links you may find useful on your journey.
 - [W3SCHOOLS Web Documentation](https://www.w3schools.com/)
 - [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
 - [StackOverflow](https://stackoverflow.com/)
+- [CSS Tricks](https://css-tricks.com/)
 
 ## Perspective
 
@@ -18,6 +19,7 @@ Here is a bunch of other relevant links you may find useful on your journey.
 
 - [Code Wars](https://www.codewars.com/dashboard)
 - [HackerRank](https://www.hackerrank.com/)
+- [Coding Interview Questions](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7)
 
 ## Online Code IDEs
 

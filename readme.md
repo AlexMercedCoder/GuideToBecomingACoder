@@ -245,6 +245,8 @@ Here you'll find other resources for other topics you may come across during the
 
 - [HTML/CSS](/more/htmlcss.md)
 - [Javascript](/more/js.md)
+    - [Frontend JS](/more/js/frontend.md)
+    - [Backend JS](/more/js/backend.md)
 - [Python](/more/python.md)
 - [Ruby](/more/ruby.md)
 - [Go](/more/go.md)
