@@ -4,7 +4,7 @@ Ruby is a really popular and developer friendly programming languages. Most famo
 
 ## Installation
 
-- [INSTALL ON MAC](https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/)
+- [INSTALL ON MAC](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-macos)
 - [INSTALL ON LINUX](https://linuxhint.com/install_ruby_ubuntu-2/)
 - [INSTALL ON WINDOWS](https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/)
 
