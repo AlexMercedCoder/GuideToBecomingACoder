@@ -32,3 +32,8 @@ Here is a bunch of other relevant links you may find useful on your journey.
 - [devNursery](https://main.devnursery.com/)
 - [Git Labs](https://lab.github.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Personal Branding
+
+- [Brand Me Podcast](https://www.youtube.com/watch?v=WhScAFBFSDY&list=PLLoXJeEMkPnCfXvRW6myBJxkpb_umPDpd)
+- [Personal Branding](https://www.forbes.com/sites/goldiechan/2018/11/08/10-golden-rules-personal-branding/?sh=6fecdf3458a7)

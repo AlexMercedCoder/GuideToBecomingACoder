@@ -257,6 +257,7 @@ Here you'll find other resources for other topics you may come across during the
 - [.Net](/more/dotnet.md)
 - [Databases](/more/db.md)
 - [Deployment](/more/deploy.md)
+- [Computer Science](/more/cs.md)
 - [Other](/more/other.md)
 
 ## Contribute
