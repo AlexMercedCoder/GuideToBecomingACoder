@@ -253,6 +253,8 @@ Here you'll find other resources for other topics you may come across during the
 - [Swift](/more/swift.md)
 - [Kotlin](/more/kotlin.md)
 - [Perl 5 & Raku](/more/rakuperl.md)
+- [Java](/more/java.md)
+- [.Net](/more/dotnet.md)
 - [Databases](/more/db.md)
 - [Deployment](/more/deploy.md)
 - [Other](/more/other.md)
