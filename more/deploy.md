@@ -35,3 +35,10 @@ Pretty much all your backend applications will be deployed via Heroku although y
 #### Ruby/Rails
 
 [![Deploying Rails to Heroku](http://img.youtube.com/vi/DiZAGhtc0AM/0.jpg)](http://www.youtube.com/watch?v=DiZAGhtc0AM "Deploying Rails to Heroku")
+
+## Deployment Notes
+
+- The top level of your git repo should always be the directory where the main configuration files live like package.json (nodeJS), Gemfile (ruby), requirements.txt (python), composer.json (php)
+
+- For create-react-app applications make sure to add "CI= " in the front of your build script in package.json before you deploy to netlify.
+
