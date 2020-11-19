@@ -1,28 +1,47 @@
-# Pre-Cohort Orientation Markdown
-
+# So You Want to Become a Coder
 ### by Alex Merced (AlexMercedCoder.com)
 
 ## Welcome
 
-Welcome!!! If you are reading this you are about to embark on a Software Engineering Immersive Remote course. I've created this markdown to highlight some best practices to best prepare before your first day of class and as a reference throughout the cohort for useful resources.
+Welcome if you are reading this is because you are considering becoming a coder. Below you'll find lots of resources to learn about the world of coding.
 
 ### Start Here
 
-This guide below will tell you what you need to setup before the first day of class.
+I recommend a few steps, the first being to try to do the free lessons at General Assemblies Dash Platform. This is a great low-risk way to get a feel for what you are getting into before you decide to learn more by doing a Bootcamp at General Assembly (Where I teach) or on your own.
 
-- [QuickStart Setup Guide](/more/quickstart.md)
+- [General Assemblies Dash](https://dash.generalassemb.ly/)
 
-Below you'll find videos and reference materials on all the main tools you'll be using throughout the course.
+I also recommend watching this video where I breakdown the many career paths and technologies in development.
 
-### Please Start by Watching the Video Below
+<center>
 
-[![Orientation Video](http://img.youtube.com/vi/1waFGXeNafY/0.jpg)](http://www.youtube.com/watch?v=1waFGXeNafY "Orientation Video")
+[![Becoming a Developer](http://img.youtube.com/vi/abKUWOldphg/0.jpg)](http://www.youtube.com/watch?v=abKUWOldphg "Becoming a Developer")
 
-**BEGINNERS REFERENCE POST**: https://tuts.alexmercedcoder.com/basicref/
+</center>
+
+The below blog post should contain a lot of useful reference during your journey. 
+
+**Ultimate Coder Reference REFERENCE POST**: https://tuts.alexmercedcoder.com/basicref/
+
+After deciding what path you want to go down the next step would be choosing which language learn first. Depending on your path here is my recommendations...
+
+- Frontend Web: HTML/CSS/Javascript
+- Backend Web: Javascript and literally any language (they all have web frameworks)
+- Data: Python
+- iOS: Swift
+- Android: Kotlin
+- Enterprise: .NET, Java
+- Systems: Rust, Go
+
+**NOTE:** This guide is primarily geared towards web but should still be able to be a solid starting place for any path. Next will be a discussion of tooling, guides for particular languages can be found afterwards.
+
+# The Tools
+
+Below you'll find resources on many of the main tools you'll need as you explore the world of development. Don't underestimate the importance of having a good appreciation for your tooling to help you become a better coder so take the time to get familiar with the tools below.
 
 ## Bash (Terminal)
 
-Bash is the default shell environment in unix based systems (Technically, Zsh is default on mac, but the commands are pretty much the same). Windows is not unix based which is the primary reason we heavily discourage going through the course with a windows environment although there are several options on how to use your windows machine in the course.
+Bash is the default shell environment in unix based systems (Technically, Zsh is default on mac, but the commands are pretty much the same). Windows is not unix based which is the heavily used in most development shops unless they are .NET which is a windows stronghold. To be able to have a Bash terminal or Unix environment on your windows machine below are some options.
 
 **Solutions for Windows Users**
 
@@ -32,22 +51,20 @@ Reveal
 </summary>
 <p>
 
-Bash is the default shell environment in unix based systems (Mac and Linux). Windows is not unix based which is the primary reason we heavily discourage going through the course with a windows environment although there are several options on how to use your windows machine in the course.
-
 1. Install Xubuntu (https://xubuntu.org/) as a second operating on your machine (This is in my opinion the best option and a tutorial how to do so is here: https://www.lifewire.com/guide-to-installing-xubuntu-linux-2202075)
 
-2. Use Windows Subsystem for Linux to have a Linux environment in your windows install (here is a tutorial => https://www.windowscentral.com/install-windows-subsystem-linux-windows-10 keep in mind any WSL specific issues will be on you to troubleshoot throughout the course)
+2. Use Windows Subsystem for Linux to have a Linux environment in your windows install (here is a tutorial => https://www.windowscentral.com/install-windows-subsystem-linux-windows-10 )
 
-3. Install Xubuntu into a virtual machine using VirtualBox (tutorial: https://lmtools.com/setup-ubuntu-virtual-machine-in-windows-using-oracle-virtualbox warning this can slow depending on the resources you share with the virtual machine)
+3. Install Xubuntu into a virtual machine using VirtualBox (tutorial: https://lmtools.com/setup-ubuntu-virtual-machine-in-windows-using-oracle-virtualbox )
 
-4. Just use windows but install git-bash to have access to a bash shell in your windows file system, it's not exactly the same and will have minor differences along the way. I'll add a section later with tips if you decide not to go with option 1 which I HIGHLY recommend as the best option. (https://gitforwindows.org/)
+4. Just use windows but install git-bash to have access to a bash shell in your windows file system, it's not exactly the same and will have minor differences along the way. (https://gitforwindows.org/)
 
 </p>
 </details>
 
 ---
 
-You will be spending a lot of time in the course in the bash shell so getting familiar with how it works will make life much easier. So please watch the video below.
+Watch this video to understand how to use the Bash shell to export your file system.
 
 **VIDEO: INTRO TO BASH**
 
@@ -94,9 +111,7 @@ Git is software for tracking versions of files. This will be the primary way you
 
 Git - software that tracks versions of different projects on your computer in local repositories.
 
-Github.com and git.generalassemb.ly(Git Enterprise) - These sites host repositories remotely, so you can push the code from your local git repository to a remote repository for backup, sharing, deploying and more.
-
-Watch the following videos to learn more about SSH Keys, Git, and Github
+Github.com, Bitbucket.com, and Gitlab.com are remote repositories where you can store your local repositories for backup, sharing or collaboration.
 
 **VIDEO: SSH KEYS**
 
@@ -145,11 +160,9 @@ More commands here: https://dzone.com/articles/top-20-git-commands-with-examples
 
 ---
 
-## Github and Git Enterprise
+## Github
 
-Github.com should be where you store your unit projects and anything you plan on deploying (making live online).
-
-git.generalassemb.ly (Git Enterprise) should be where your class repo is located and you turn in your homework.
+Github.com, Bitbucket.com, and Gitlab.com are remote repositories where you can store your local repositories for backup, sharing or collaboration.
 
 Documentation will often be written in MarkDown a special basic language for writing a basic documents, watch the videos below to learn about remote repositories and using Markdown Files.
 
@@ -171,7 +184,7 @@ Learn more about using Remote Repositories with the following lessons from Git L
 
 ## VSCode
 
-VSCode will likely be the main text editor you'll be using to edit your code throughout the cohort. Please watch the two videos below to become more familiar with VSCode and helpful extensions.
+VSCode is a popular text editor for editing code files, watch the video below to learn about how to use VSCode.
 
 **VIDEO: VSCode Basics**
 
@@ -202,7 +215,7 @@ Reveal
 
 ## Node
 
-Node is a runtime, it allows us to run javascript out of the browser which gives javascript a whole new life as a language for backend servers, scripting and more. Node will be used heavily through the cohort so watch the video below to learn how to use it.
+Node is a runtime, it allows us to run javascript out of the browser which gives javascript a whole new life as a language for backend servers, scripting and more.
 
 **VIDEO: Intro to NodeJS**
 
@@ -233,15 +246,15 @@ Reveal
 
 ## Chrome
 
-You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development and will be the primary browser we'll use through out the course. Learning the dev tools will help debugging and overcoming roadblocks in your code much easier.
+You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development. Learning the Chrome dev tools will help debugging and overcoming roadblocks in your code much easier.
 
 **VIDEO: INTRO TO Chrome Dev Tools**
 
 [![Chrome Dev Tools](http://img.youtube.com/vi/Bx9bhPOxNZk/0.jpg)](http://www.youtube.com/watch?v=Bx9bhPOxNZk "Chrome Dev Tools")
 
-## More Topics
+# More Topics
 
-Here you'll find other resources for other topics you may come across during the cohort. These can be examined at whatever time you feel appropriate to do so just make sure you explore the above videos about the tooling you'll be using during the cohort to give yourself the best foot forward.
+Below you'll find guides for learning particular languages and topics, enjoy!
 
 - [HTML/CSS](/more/htmlcss.md)
 - [Javascript](/more/js.md)

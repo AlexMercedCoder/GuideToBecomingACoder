@@ -2,7 +2,7 @@
 
 Deployment is the process of taking your application and deploying it so the project is live on the internet.
 
-Pretty much all your backend applications will be deployed via Heroku although you'll have several options for frontend deployment.
+Pretty much all your backend applications initially will be deployed via Heroku although you'll have several options for frontend deployment.
 
 ## Frontend Deployment
 

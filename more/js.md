@@ -10,7 +10,7 @@ Javascript is the only language currently that can be run in the web browser in 
 
 ## First Steps
 
-[USE THIS JAVASCRIPT PLAYLIST TO SUPPLEMENT WHAT YOU LEARN IN CLASS](https://www.youtube.com/playlist?list=PLY6oTPmKnKbZDZ9cRrRby4Wnr4GIJj5O3)
+[Javascript Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbZDZ9cRrRby4Wnr4GIJj5O3)
 
 [Language Cheatsheet](https://www.scribd.com/document/483070482/DevNursery-Cheatsheet-Javascript)
 

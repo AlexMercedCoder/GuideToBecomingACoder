@@ -6,10 +6,6 @@ First watch this video on several different database paradigms that is a great i
 
 [![7 Database Paradigms](http://img.youtube.com/vi/W2Z7fbCLSTw/0.jpg)](http://www.youtube.com/watch?v=W2Z7fbCLSTw "7 Database Paradigms")
 
-## During Your Cohort
-
-You will learn one document database (MongoDB) and one SQL Database (Postgres)
-
 ## MongoDB
 
 MongoDB is a very popular Document Database. What makes Mongo different is that all data in Mongo is saved as text in a JSON like format called BSON. This makes the structure of the data very intuitive for javascript developers since its structure is like that of a javascript object.
