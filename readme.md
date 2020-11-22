@@ -3,7 +3,7 @@
 
 ## Welcome
 
-Welcome if you are reading this is because you are considering becoming a coder. Below you'll find lots of resources to learn about the world of coding.
+Welcome! If you are reading this you are considering becoming a coder. Below you'll find lots of resources to learn about the world of coding.
 
 ### Start Here
 
@@ -41,7 +41,7 @@ Below you'll find resources on many of the main tools you'll need as you explore
 
 ## Bash (Terminal)
 
-Bash is the default shell environment in unix based systems (Technically, Zsh is default on mac, but the commands are pretty much the same). Windows is not unix based which is the heavily used in most development shops unless they are .NET which is a windows stronghold. To be able to have a Bash terminal or Unix environment on your windows machine below are some options.
+Bash is the default shell environment in unix based systems (Technically, Zsh is the default on mac, but the commands are pretty much the same). Windows is not a unix based system which is why they aren't as heavily used in development shops unless they are .NET which is a windows stronghold. To be able to have a Bash terminal or Unix environment on your windows machine below are some options.
 
 **Solutions for Windows Users**
 
@@ -64,7 +64,7 @@ Reveal
 
 ---
 
-Watch this video to understand how to use the Bash shell to export your file system.
+Watch this video to understand how to use the Bash shell to explore your file system.
 
 **VIDEO: INTRO TO BASH**
 
@@ -111,7 +111,7 @@ Git is software for tracking versions of files. This will be the primary way you
 
 Git - software that tracks versions of different projects on your computer in local repositories.
 
-Github.com, Bitbucket.com, and Gitlab.com are remote repositories where you can store your local repositories for backup, sharing or collaboration.
+Github.com, Bitbucket.com, and Gitlab.com are hosts of remote repositories where you can store your local repositories for backup, sharing or collaboration.
 
 **VIDEO: SSH KEYS**
 
@@ -162,9 +162,9 @@ More commands here: https://dzone.com/articles/top-20-git-commands-with-examples
 
 ## Github
 
-Github.com, Bitbucket.com, and Gitlab.com are remote repositories where you can store your local repositories for backup, sharing or collaboration.
+Github.com, Bitbucket.com, and Gitlab.com are hosts of remote repositories where you can store your local repositories for backup, sharing or collaboration.
 
-Documentation will often be written in MarkDown a special basic language for writing a basic documents, watch the videos below to learn about remote repositories and using Markdown Files.
+Documentation will often be written in MarkDown, a special markup language for writing basic documents, watch the videos below to learn about remote repositories and using Markdown Files.
 
 **VIDEO: GIT REMOTES**
 
@@ -174,7 +174,7 @@ Documentation will often be written in MarkDown a special basic language for wri
 
 [![Writing Markdown Files](http://img.youtube.com/vi/lbpRomejEd0/0.jpg)](http://www.youtube.com/watch?v=lbpRomejEd0 "Writing Markdown Files")
 
-Learn more about using Remote Repositories with the following lessons from Git Labs, highly recommend working through these brief quick lessons.
+Learn more about using Remote Repositories with the following lessons from Git Labs, I highly recommend working through these brief quick lessons.
 
 1. First Day on Github: https://lab.github.com/githubtraining/first-day-on-github
 
@@ -246,7 +246,7 @@ Reveal
 
 ## Chrome
 
-You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development. Learning the Chrome dev tools will help debugging and overcoming roadblocks in your code much easier.
+You may be fond of other browsers but Chrome by far has the most robust tools to assist in web development. Learning the Chrome dev tools will help make debugging and overcoming roadblocks in your code much easier.
 
 **VIDEO: INTRO TO Chrome Dev Tools**
 

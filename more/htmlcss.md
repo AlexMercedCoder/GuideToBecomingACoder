@@ -9,7 +9,7 @@ HTML and CSS are run in the browser so installing is really just a matter of ins
 ## First Steps
 
 1. [LEARN THE BASICS AT GENERAL ASSEMBLY's DASH](http://dash.generalassemb.ly)
-2. [SUPPLEMENT YOU CLASS EXPERIENCE WITH THIS PLAYLIST](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX)
+2. [LEARN MORE HTML/CSS/JS](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX)
 
 ## Other Important Libraries To Learn About
 
