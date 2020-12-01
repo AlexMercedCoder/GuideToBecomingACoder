@@ -274,6 +274,7 @@ Below you'll find guides for learning particular languages and topics, enjoy!
 - [Deployment](/more/deploy.md)
 - [Computer Science](/more/cs.md)
 - [Other](/more/other.md)
+- [Self-Teaching Rubrics](https://github.com/AlexMercedCoder/self_learning_rubrics)
 
 ## Contribute
 
