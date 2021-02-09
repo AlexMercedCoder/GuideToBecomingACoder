@@ -23,6 +23,8 @@ The below blog post should contain a lot of useful reference during your journey
 
 **Ultimate Coder Reference REFERENCE POST**: https://tuts.alexmercedcoder.com/basicref/
 
+**CHECK OUT WIKI FOR MORE REFERENCES AND CHEAT SHEETS**: https://github.com/AlexMercedCoder/GuideToBecomingACoder/wiki
+
 After deciding what path you want to go down the next step would be choosing which language learn first. Depending on your path here is my recommendations...
 
 - Frontend Web: HTML/CSS/Javascript
